@@ -1,0 +1,10 @@
+"C:\Program Files\Java\jdk-21\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3\lib\idea_rt.jar=61556:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath D:\IdeaProjects\project4\out\production\project4;D:\IdeaProjects\project4\lib\guice-7.0.0-classes.jar lab4.Main
+
+Story: Приключения Элизы
+Мышки собрали крапиву и принесли её к ногам Элизы.
+Дрозд утешал её своей весёлой песней.
+У дворцовых ворот появились одиннадцать братьев, требующих впустить их к королю.
+Страж и король отказали им, но они продолжали просить и угрожать.
+Взошло солнце, и братья превратились в диких лебедей.
+
+Process finished with exit code 0
